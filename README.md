@@ -1,16 +1,13 @@
-### Hi there 👋
+### 유명환 
 
-<!--
-**famous0811/famous0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요 반갑습니다 세상에서 가장 유명한 남자 famous 유명환이라고 합니다!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##Skills
+* react - redux/modex
+* node.js
+* typescript
+
+##Projects
+
