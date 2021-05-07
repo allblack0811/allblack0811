@@ -18,7 +18,6 @@
 
 
 ## others
-  * [![Git Blog Badge](http://img.shields.io/badge/-Git%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://famous0811.github.io/newblog/)
   * [![Tistory Blog Badge](http://img.shields.io/badge/-Tistory%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://allblack0811.tistory.com/)
   * [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:yum969315@gmail.com)
   
