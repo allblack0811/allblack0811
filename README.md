@@ -5,13 +5,13 @@
 
 
 ## Skills
-  * react - redux/modex
+  * vue,nuxt /modex
   * node.js
   * typescript
   * mongodb
   
 ## Interduce
-  * 안녕하세요 1년차 react 개발자 유명환이라고 합니다!
+  * 안녕하세요 1년차 vue 개발자 유명환이라고 합니다!
   * 공부에 방법을 잊지 않기위해 학업도 꾸준히 해나가고 있습니다!
   * web-front를 주력으로 공부하고 있지만 다른 부분에도 관심이 많아 UI/UX도 공부하고 있습니다!
   * 주석, 직관적인 이름과 개발자/유저 모두에 관점에서 생각 하려고 노력합니다!
