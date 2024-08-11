@@ -21,11 +21,11 @@
   * [![Tistory Blog Badge](http://img.shields.io/badge/-Tistory%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://allblack0811.tistory.com/)
   * [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:yum969315@gmail.com)
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=famous0811)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allblack0811)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=famous0811&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allblack0811&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffamous0811&count_bg=%2379C83D&title_bg=%23555555&icon=windows.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fallblack0811&count_bg=%2379C83D&title_bg=%23555555&icon=windows.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
