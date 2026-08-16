@@ -1,4 +1,4 @@
-### Myeonghwan You
+### Myounghwan Yu
 
 A front-end developer with 5 years of experience who loves building new and fun things. I care about design systems and web accessibility, and try to think from the perspective of both developers and users.
 
